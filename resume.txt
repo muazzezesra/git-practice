@@ -1,0 +1,3 @@
+name: kunkka
+occupation: Admiral
+objective: to be admired and remember for good things
